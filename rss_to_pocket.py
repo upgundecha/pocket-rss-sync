@@ -28,7 +28,7 @@ def add_to_pocket(url, title, added_urls):
         'title': title,
         'consumer_key': POCKET_CONSUMER_KEY,
         'access_token': POCKET_ACCESS_TOKEN,
-        'tags': 'engieering-blogs'
+        'tags': 'engineering-blogs'
     }
     response = requests.post(api_url, json=data, headers=headers)
     if response.status_code == 200:
