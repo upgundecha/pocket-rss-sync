@@ -1,6 +1,7 @@
 name: Archive Old Pocket Items
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 12 * * 5'  # Run at 12:00 (noon) UTC every Friday
 
