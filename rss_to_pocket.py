@@ -5,6 +5,9 @@ import os
 # File to track added URLs
 TRACKER_FILE = 'added_urls.txt'
 
+POCKET_CONSUMER_KEY = os.environ.get('POCKET_CONSUMER_KEY')
+POCKET_ACCESS_TOKEN = os.environ.get('POCKET_ACCESS_TOKEN')
+
 def load_added_urls():
     """Load URLs from the tracker file."""
     if not os.path.exists(TRACKER_FILE):
