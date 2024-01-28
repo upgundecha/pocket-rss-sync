@@ -17,11 +17,25 @@ def add_to_pocket(url, title, added_urls):
     if url in added_urls:
         print(f"URL already added to Pocket: {url}")
         return
-    # Pocket API call as before
-    # On successful add, append the URL to the tracker file
-    with open(TRACKER_FILE, 'a') as file:
-        file.write(url + '\n')
-    print(f"Successfully added and tracked {title}")
+ 
+    api_url = 'https://getpocket.com/v3/add'
+    headers = {'Content-Type': 'application/json; charset=UTF-8', 'X-Accept': 'application/json'}
+    data = {
+        'url': url,
+        'title': title,
+        'consumer_key': POCKET_CONSUMER_KEY,
+        'access_token': POCKET_ACCESS_TOKEN,
+        'tags': 'engieering-blogs'
+    }
+    response = requests.post(api_url, json=data, headers=headers)
+    if response.status_code == 200:
+        print(f"Successfully added {title} to Pocket.")
+        # On successful add, append the URL to the tracker file
+        with open(TRACKER_FILE, 'a') as file:
+            file.write(url + '\n')
+            print(f"Successfully added and tracked {title}")
+    else:
+        print(f"Failed to add {title} to Pocket. Status code: {response.status_code}")
 
 def main():
     added_urls = load_added_urls()
