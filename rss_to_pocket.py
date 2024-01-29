@@ -46,6 +46,7 @@ def main():
     rss_feeds = [
         'https://github.blog/category/engineering/feed/',
         'https://engineering.fb.com/feed/',
+        'https://martinfowler.com/feed.atom',
         # Add more RSS feed URLs here
     ]
     
