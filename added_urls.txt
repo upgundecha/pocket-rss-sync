@@ -1,3 +1,5 @@
 
 https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/
 https://engineering.fb.com/2024/01/18/developer-tools/lazy-imports-cinder-machine-learning-meta/
+https://engineering.fb.com/2024/01/29/ml-applications/improving-machine-learning-iteration-speed-with-faster-application-build-and-packaging/
+https://martinfowler.com/articles/2024-emacs-completion.html
