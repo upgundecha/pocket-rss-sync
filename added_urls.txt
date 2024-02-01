@@ -4,3 +4,4 @@ https://engineering.fb.com/2024/01/18/developer-tools/lazy-imports-cinder-machin
 https://engineering.fb.com/2024/01/29/ml-applications/improving-machine-learning-iteration-speed-with-faster-application-build-and-packaging/
 https://martinfowler.com/articles/2024-emacs-completion.html
 https://martinfowler.com/articles/bottlenecks-of-scaleups/06-onboarding.html#IncludeNewHiresInTheCompanyCulture
+https://martinfowler.com/articles/bottlenecks-of-scaleups/06-onboarding.html#PairProgrammingAsACriticalOnboardingTechnique
