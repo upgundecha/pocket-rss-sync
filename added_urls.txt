@@ -5,3 +5,4 @@ https://engineering.fb.com/2024/01/29/ml-applications/improving-machine-learning
 https://martinfowler.com/articles/2024-emacs-completion.html
 https://martinfowler.com/articles/bottlenecks-of-scaleups/06-onboarding.html#IncludeNewHiresInTheCompanyCulture
 https://martinfowler.com/articles/bottlenecks-of-scaleups/06-onboarding.html#PairProgrammingAsACriticalOnboardingTechnique
+https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/
