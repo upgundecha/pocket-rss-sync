@@ -7,3 +7,4 @@ https://martinfowler.com/articles/bottlenecks-of-scaleups/06-onboarding.html#Inc
 https://martinfowler.com/articles/bottlenecks-of-scaleups/06-onboarding.html#PairProgrammingAsACriticalOnboardingTechnique
 https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/
 https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/
+https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/
