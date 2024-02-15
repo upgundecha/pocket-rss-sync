@@ -11,3 +11,4 @@ https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-d
 https://engineering.fb.com/2024/02/12/developer-tools/meta-loves-python/
 https://github.blog/2024-02-13-bringing-npm-registry-services-to-github-codespaces/
 https://martinfowler.com/articles/engineering-practices-llm.html
+https://github.blog/2024-02-14-github-availability-report-january-2024/
