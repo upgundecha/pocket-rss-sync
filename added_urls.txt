@@ -13,3 +13,4 @@ https://github.blog/2024-02-13-bringing-npm-registry-services-to-github-codespac
 https://martinfowler.com/articles/engineering-practices-llm.html
 https://github.blog/2024-02-14-github-availability-report-january-2024/
 https://engineering.fb.com/2024/02/20/developer-tools/velox-apache-arrow-15-composable-data-management/
+https://github.blog/2024-02-22-how-ai-code-generation-works/
