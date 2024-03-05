@@ -16,3 +16,4 @@ https://engineering.fb.com/2024/02/20/developer-tools/velox-apache-arrow-15-comp
 https://github.blog/2024-02-22-how-ai-code-generation-works/
 https://engineering.fb.com/2024/02/26/developer-tools/dotslash-meta-tech-podcast/
 https://martinfowler.com/bliki/PeriodicFaceToFace.html
+https://github.blog/2024-03-04-keeping-repository-maintainer-information-accurate/
