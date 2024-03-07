@@ -18,3 +18,6 @@ https://engineering.fb.com/2024/02/26/developer-tools/dotslash-meta-tech-podcast
 https://martinfowler.com/bliki/PeriodicFaceToFace.html
 https://github.blog/2024-03-04-keeping-repository-maintainer-information-accurate/
 https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html
+https://github.blog/2024-03-06-how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day/
+https://engineering.fb.com/2024/03/06/security/whatsapp-messenger-messaging-interoperability-eu/
+https://martinfowler.com/articles/rotate-pairs-experiment.html
