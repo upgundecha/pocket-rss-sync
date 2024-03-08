@@ -21,3 +21,4 @@ https://martinfowler.com/articles/patterns-legacy-displacement/event-interceptio
 https://github.blog/2024-03-06-how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day/
 https://engineering.fb.com/2024/03/06/security/whatsapp-messenger-messaging-interoperability-eu/
 https://martinfowler.com/articles/rotate-pairs-experiment.html
+https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the-age-of-ai/
