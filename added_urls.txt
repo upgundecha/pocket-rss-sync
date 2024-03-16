@@ -25,3 +25,4 @@ https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the
 https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/
 https://martinfowler.com/articles/measuring-developer-productivity-humans.html
 https://martinfowler.com/articles/measuring-developer-productivity-humans.html#TheTwoTypesOfQualitativeMetrics
+https://martinfowler.com/articles/2024-refactoring-code-samples.html
