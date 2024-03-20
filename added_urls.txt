@@ -27,3 +27,4 @@ https://martinfowler.com/articles/measuring-developer-productivity-humans.html
 https://martinfowler.com/articles/measuring-developer-productivity-humans.html#TheTwoTypesOfQualitativeMetrics
 https://martinfowler.com/articles/2024-refactoring-code-samples.html
 https://engineering.fb.com/2024/03/18/data-infrastructure/logarithm-logging-engine-ai-training-workflows-services-meta/
+https://martinfowler.com/articles/measuring-developer-productivity-humans.html#HowToCaptureQualitativeMetrics
