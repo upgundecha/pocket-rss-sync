@@ -31,3 +31,5 @@ https://martinfowler.com/articles/measuring-developer-productivity-humans.html#H
 https://engineering.fb.com/2024/03/20/networking-traffic/optimizing-rtc-bandwidth-estimation-machine-learning/
 https://engineering.fb.com/2024/03/21/networking-traffic/threads-has-entered-the-fediverse/
 https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/
+https://engineering.fb.com/2024/03/26/android/instagram-threads-hdr-photos/
+https://martinfowler.com/articles/uncovering-mainframe-seams.html
